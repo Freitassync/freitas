@@ -1,0 +1,8 @@
+{
+  "name": "Freitas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "d6e29617"
+}
